@@ -53,6 +53,6 @@
   "primaryTokenAttribute": "attributes.hp",
   "url": "https://your/hosted/system/repo/",
   "background": "systems/mysystem/assets/splash.webp",
-  "manifest": "https://your/hosted/system/repo/system.json",
+  "manifest": "https://github.com/ir-almeida/trevas.git",
   "download": "https://your/packaged/download/archive.zip"
 }
